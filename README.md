@@ -8,8 +8,6 @@
 
 ![Animated overview of the significance of the SR-009 to SR-013 RRE discovery series.](assets/sr009-sr013-significance.gif)
 
-The papers are available through their Zenodo records.
-
 | Title | Significance | Zenodo link |
 | --- | --- | --- |
 | **SR-013.** Exact Information Contraction and Nonvanishing Divergence for Finite Quantum Channels | Equates complete, conditional relative-entropy, and conditional mutual-information contraction for finite quantum channels, using SR-012 and the prior conditional equivalence. Determines the exact ordinary mutual-information coefficient of a depolarizing qubit, giving 1/3 versus 3/8 at half-depolarization. Classifies when near-optimal contraction can retain nonvanishing input divergence, with deficits uniform over growing references, product criteria, and logarithmic copy bounds. The limiting constructions are pointwise; positive divergence alone does not guarantee fixed-error distinguishability or a capacity result. | [Zenodo record](https://zenodo.org/records/24068417) |
