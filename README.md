@@ -6,7 +6,11 @@ Research papers on quantum information theory, with summaries of their mathemati
 
 **Ying Xie** · Kennesaw State University · [yxie2@kennesaw.edu](mailto:yxie2@kennesaw.edu)
 
-## Papers
+<a id="papers"></a>
+
+## Exact Laws and Fundamental Separations in Quantum Information
+
+*An RRE Discovery Series on Purification, Contraction, and Information Retention — SR-009 to SR-013*
 
 The papers are available through their Zenodo records.
 
