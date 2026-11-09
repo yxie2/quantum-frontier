@@ -1,7 +1,5 @@
 # Quantum Frontier
 
-### Quantum Information Theory
-
 Research papers on quantum information theory, with summaries of their mathematical significance. A companion collection to [Complexity Frontiers](https://github.com/yxie2/complexity-frontiers).
 
 **Ying Xie** · Kennesaw State University · [yxie2@kennesaw.edu](mailto:yxie2@kennesaw.edu)
