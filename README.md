@@ -6,6 +6,8 @@
 
 *An RRE Discovery Series on Purification, Contraction, and Information Retention — SR-009 to SR-013*
 
+![Animated overview of the significance of the SR-009 to SR-013 RRE discovery series.](assets/sr009-sr013-significance.gif)
+
 The papers are available through their Zenodo records.
 
 | Title | Significance | Zenodo link |
