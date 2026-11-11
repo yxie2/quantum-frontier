@@ -24,6 +24,6 @@ The [Math Instruments collection](https://github.com/yxie2/math-instruments#sign
 
 | Title | Significance | Zenodo link |
 | --- | --- | --- |
-| Exact Finite-Time Limits of Controlled Qubit Memories | Determines exact storage fidelity, diamond-distance error, and branchwise entanglement limits for one persistent qubit under a prescribed sequence of independent unital noise channels, with ideal adaptive control and unlimited classical records. Finite protocols attain every optimum, and even selective controls cannot prolong entanglement survival beyond unitary axis alignment. Also gives separate heralded nonunital and qualitative source-placement results. | [Zenodo record](https://zenodo.org/records/24124639) |
+| **QMI-001.** Exact Finite-Time Limits of Controlled Qubit Memories | Determines exact storage fidelity, diamond-distance error, and branchwise entanglement limits for one persistent qubit under a prescribed sequence of independent unital noise channels, with ideal adaptive control and unlimited classical records. Finite protocols attain every optimum, and even selective controls cannot prolong entanglement survival beyond unitary axis alignment. Also gives separate heralded nonunital and qualitative source-placement results. | [Zenodo record](https://zenodo.org/records/24124639) |
 
 Repository documentation is available under the [MIT License](LICENSE). The linked papers retain the licenses stated in their Zenodo records.
