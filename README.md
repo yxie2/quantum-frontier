@@ -2,14 +2,6 @@
 
 <a id="papers"></a>
 
-## Quantum Memory and Finite-Resource Information Limits
-
-*An RRE Discovery Series on Quantum Storage, Adaptive Control, and Entanglement Survival*
-
-| Title | Significance | Zenodo link |
-| --- | --- | --- |
-| Exact Finite-Time Limits of Controlled Qubit Memories | Determines exact storage fidelity, diamond-distance error, and branchwise entanglement limits for one persistent qubit under a prescribed sequence of independent unital noise channels, with ideal adaptive control and unlimited classical records. Finite protocols attain every optimum, and even selective controls cannot prolong entanglement survival beyond unitary axis alignment. Also gives separate heralded nonunital and qualitative source-placement results. | [Zenodo record](https://zenodo.org/records/24124639) |
-
 ## Exact Laws and Fundamental Separations in Quantum Information
 
 *An RRE Discovery Series on Purification, Contraction, and Information Retention — SR-009 to SR-013*
@@ -25,5 +17,13 @@
 | **SR-009.** Classical entanglement of purification is nonadditive with three outcomes per party | Shows nonadditivity already for three outcomes per party using an explicit classical probability table: joint purification of many copies has a strictly lower per-copy cost than one-copy purification. Exact entropy certificates and a direct classical covering argument establish the gap, which persists for strictly positive tables. Binary additivity remains open, and the certified many-copy construction is not a practical small-copy witness. | [Zenodo record](https://zenodo.org/records/23935499) |
 
 The [Math Instruments collection](https://github.com/yxie2/math-instruments#significant-math-results-generated-by-open-ended-autonomous-rre-run) includes the reasoning-route visualizations for SR-010 and SR-009.
+
+## Quantum Memory and Finite-Resource Information Limits
+
+*An RRE Discovery Series on Quantum Storage, Adaptive Control, and Entanglement Survival*
+
+| Title | Significance | Zenodo link |
+| --- | --- | --- |
+| Exact Finite-Time Limits of Controlled Qubit Memories | Determines exact storage fidelity, diamond-distance error, and branchwise entanglement limits for one persistent qubit under a prescribed sequence of independent unital noise channels, with ideal adaptive control and unlimited classical records. Finite protocols attain every optimum, and even selective controls cannot prolong entanglement survival beyond unitary axis alignment. Also gives separate heralded nonunital and qualitative source-placement results. | [Zenodo record](https://zenodo.org/records/24124639) |
 
 Repository documentation is available under the [MIT License](LICENSE). The linked papers retain the licenses stated in their Zenodo records.
